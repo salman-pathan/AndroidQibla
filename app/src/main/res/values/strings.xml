@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidQibla</string>
+    <string name="location_permission_message">Location permission is needed to show direction</string>
+    <string name="location_permission_title">Permission Required!</string>
 </resources>
